@@ -1,0 +1,15 @@
+{
+    "codigo-qr": "\\f101",
+    "correct": "\\f102",
+    "cursor": "\\f103",
+    "envelope": "\\f104",
+    "facebook": "\\f105",
+    "full-qr": "\\f106",
+    "instagram": "\\f107",
+    "localizacao": "\\f108",
+    "perfil": "\\f109",
+    "redes-sociais": "\\f10a",
+    "sinais": "\\f10b",
+    "whatsapp": "\\f10c",
+    "wrong": "\\f10d"
+}
